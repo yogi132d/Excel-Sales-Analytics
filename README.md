@@ -1,6 +1,6 @@
 ## Sales Report :
 
-**Project objective:** 
+- **Project objective:** 
 
     **1.** Create a _[https://github.com/yogi132d/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
